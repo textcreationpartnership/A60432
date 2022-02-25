@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divine love spreading forth over all nations, or, The glorious day of unity, peace, and concord tendered unto all the meek of the earth given forth from a tender compassion to the captivated seed of the noble plant of renown ... / by Humphrey Smith.</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60432</idno>
+            <idno type="STC">Wing S4057</idno>
+            <idno type="STC">ESTC R28159</idno>
+            <idno type="EEBO-CITATION">10440468</idno>
+            <idno type="OCLC">ocm 10440468</idno>
+            <idno type="VID">45025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45025)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1390:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divine love spreading forth over all nations, or, The glorious day of unity, peace, and concord tendered unto all the meek of the earth given forth from a tender compassion to the captivated seed of the noble plant of renown ... / by Humphrey Smith.</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This to go among them called heathens, gentiles, Jews, Turks, infidels, and all sorts of nations upon the earth."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45025:1"/>
+            <pb facs="tcp:45025:1" rendition="simple:additions"/>
+            <p>DIVINE LOVE ſpreading forth over all NATIONS, OR, The glorious day of unity, peace and concord, tendered unto all the meek of the earth. Given forth from a tender Compaſſion to the capti<g ref="char:EOLhyphen"/>vated Seed of the noble Plant of renown, which is hid in all ſober, humble, wiſe, and profeſſed re<g ref="char:EOLhyphen"/>ligious Emperors, Kings, Princes, and People in all Nations, Kindreds and Tongues over all the whole World, and from all ſorts of people who know not the power of Truth in the inward parts. That they all may come to have the hidden Trea<g ref="char:EOLhyphen"/>ſure opened in them, and be gathered into the glorious Life of eternal Peace.</p>
+            <p>By a lover of the ſouls of all mankind, a Servant of the God of Life, Truth and Love, who for declaring openly againſt immoderation and unrighteouſneſs of men, am a priſoner in my own Nation of <hi>England</hi> at the City of <hi>Wincheſter,</hi> where, to them that know not Love, am only known by the name of <hi>Humphry Smith.</hi>
+            </p>
+            <p>This to goe among them called Heathens, Gentiles, Jews, Turks, Infidels, and all ſorts of Nations upon the Earth.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth neer <hi>Alderſgate.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45025:2" rendition="simple:additions"/>
+            <p>HEarken and hear ye mightie ones of the earth, that love righteouſneſs, and all you prudent ones that can receive inſtruction, who have not yet hardened your hearts as many have done, againſt a day of ſlaughter; even all ye, who are willing to come to meekneſs, and receive under<g ref="char:EOLhyphen"/>ſtanding, that your ſouls may live, who have an ear readie to be opened to entertain counſel, that the wiſdom of the moſt High you may attain unto, &amp; come to taſte of the ver<g ref="char:EOLhyphen"/>tue of the ſubſtance of that which nouriſheth all things li<g ref="char:EOLhyphen"/>ving, that the unſearchable life of the unlimited power you may attain unto, and come to that which was in the begin<g ref="char:EOLhyphen"/>ning, and partake of the life which over death is to reign, that to the immortal Being you may be led: Be ye now therefore awakened, and feel the operation of the breath of life in you, &amp; let the vertue of the word of life break through you, and the power thereof break through the earth, that you may come to be over-ſhaddowed with the influences of divine love, and filled with the ſweet content of the riches of the life eternal, that nothing may ſtop the river of heal<g ref="char:EOLhyphen"/>ing oil, nor hinder the iſſuings forth of the pleaſant ſtreams of living water, but that in it your ſouls may be refreſhed, &amp; your life grow up as a fruitful vine, that under the wing of the moſt High you may be ſhadowed, and reſt in the ſhel<g ref="char:EOLhyphen"/>ter of a Rock.</p>
+            <p>For the Almightie power of the infinite Being is ſpread<g ref="char:EOLhyphen"/>ing forth it ſelf, and the eternal Excellencie is giving forth it ſelf unto the ſons of men, that they by humilitie in it may come to reſt for ever, and come to the fulneſs of that, which only gives ſatisfaction, without which there is no true peace, by which immortallitie may be injoyed for ever, and the life which only through death is found, and that dominion, which through patience &amp; long-ſuffering is ob<g ref="char:EOLhyphen"/>tained, which only belongs to Kings and Princes, and ſuch whom the King of Kings delighteth to honour, who hath eternal crowns of unſpeakable glory, for all that come to him in the humble ſimplicitie &amp; innocencie of uprightneſs, with that love which thinketh no evil, which comes from that life, in which no evil doth ſtand.</p>
+            <pb n="3" facs="tcp:45025:2"/>
+            <p>For he that inhabiteth eternitie hath roared from the higheſt heaven, and the Almightie, Wonderful &amp; Terrible God over all, hath thundered with the might of his power, to the revealing of the hidden things of darkneſs, &amp; diſco<g ref="char:EOLhyphen"/>vering the foundation of all worſhips practiſed by all man<g ref="char:EOLhyphen"/>kind upon the face of the whole earth, and the ground of their revolting from that which was, and was to be their life, that by it they might have lived for ever, who from the holy life and vertue of all things being departed in their tranſgreſſion and rebellion againſt the light, whereby thick darkneſs have covered all mankind, &amp; brutiſhneſs in know<g ref="char:EOLhyphen"/>ledge hath happened unto many, and inordinate affections have had dominion, and ſotiſhneſs hath blinded the mind, and the things that are made in the earth hath filled the earthly heart, that in it the living power that made all things cannot have entrance, without which living power received in the heart, there is not eternal peace, by the in<g ref="char:EOLhyphen"/>joyment (or poſſeſſ on) of all the things that are created in or upon the ſea or earth, neither is there any manner of worſhip that obtains life to the ſoul, until therein man comes to be guided with that, by which the ſoul at firſt had its life, by which man was made, which is light; for the eter<g ref="char:EOLhyphen"/>nal power who is light, is breaking forth of darkneſs, and ſhining forth as the brightneſs of the clear morning, that all the dark corners of the earth may be enlightened with the beautie thereof; which light in the lowly and the meek may be felt, who obeying it may know it ſhining more and more to the brightneſs of the day of glory, whereby all Na<g ref="char:EOLhyphen"/>tions may come to taſte of the vertue of the life, &amp; come to know the covenant of peace, which wil heal all the breaches and reſtore the unitie of all nations, that one peaceable co<g ref="char:EOLhyphen"/>venant over all nations may ſpread as the morning cloud, and be all covered under that, which ſhadows over all the upright in heart, who love the breathings forth of the holy life, and keep their minds to the humble ſeed, continuing in the pure fear, thereby in them to have the fountain o<g ref="char:EOLhyphen"/>pened, that they all may drink at the ſpring that ſhall never be drie, whoſe ſouls comes to be as a watered garden, and their inward parts as a veſſel of oil, their hearts being in<g ref="char:EOLhyphen"/>larged
+<pb n="4" facs="tcp:45025:3"/> with the abundance of peace, &amp; becauſe of ſalvation rejoycing for ever, that all nations may be at quiet, and e<g ref="char:EOLhyphen"/>very one feed under his own vine, and none deſtroy nor de<g ref="char:EOLhyphen"/>vour one another henceforth for evermore.</p>
+            <p>For by the mighty wonderful operation of the power of the one light, which ſhines in &amp; overall, were all things made, &amp; all mankind upon the whole earth, from the life of which one light, was breathed into man, that by which man might be kept in the unity, and abide in the oneneſs of Spirit, the which though all mankind are gone out from, by ſin and evil, yet that which is but one in all, which was before man (&amp; ſin) doth ſtill in man remain, even the light proceeding from the life, which was the life of man, without which he is dead unto God, which light remaining in man a free gift from the God of life, power, and love, by it may all man<g ref="char:EOLhyphen"/>kind ſeek after the living God and find him, who is not far from every one, but is neer unto all that ſeek him, in the meek lowlineſs in the heart.</p>
+            <p>And that all Emperors, Kings, Princes, and Judges, and all Nations, Languages, Kindreds, Tongues, and People, up<g ref="char:EOLhyphen"/>on the face of the whole earth, may come to be reſtored into unity, peace and concord, and be united together in one bond of love and peace, and never learn war any more, and that they may all come to the true worſhip of the one God of life, power, and light, in and overall, and never to have hatred one againſt another, concerning profeſſed religious worſhip, nor differ and ſtrive about that, by which the ſouls of all mankind come to be ſaved, nor about the way of at<g ref="char:EOLhyphen"/>taining thereunto.</p>
+            <p>And that all Nations and Peoples may receive the ver<g ref="char:EOLhyphen"/>tue of the life it ſelf, by which man may come to live for e<g ref="char:EOLhyphen"/>ver, in that noble ſtate of prudence, innocencie &amp; wiſdom, in the durable dominion of divine honour, ruling in the excellencie of the omnipotent power (of the moſt infinite God of life) over all that, which at firſt in divine wiſdome, was ſub<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected under man, who then bore the Image of the immortal God of power; and live in the glorious ſtate of peace and quietneſs, out of wrath, envie and trouble; and that man may be brought into that noble ſtate of upright<g ref="char:EOLhyphen"/>neſs,
+<pb n="5" facs="tcp:45025:3"/> and come to be directed &amp; guided with that, by which he may be renowned for ever, and leave the memorial of his righteouſneſs for a ſweet ſavour unto many Generations to come.</p>
+            <p>Therefore all ye wiſe and prudent, ancient and ho<g ref="char:EOLhyphen"/>norable, devout, zealous and religious ones, let all your minds be turned from the varieties of conceptions in the vain imaginations, and the vain thoughts of the dark mind, which leadeth forth into the carnal conceivings of things without the pure ſubſtance of the one immortal life, which in man lies hid, from all that carnal wiſdom, which naturally ruleth in man, who is fallen from the dominion and life of the God of wiſdom, whoſe delight is to dwell in his people, and reveal in them his ſecrets, and make known unto them (by that which ſearcheth the heart) the un<g ref="char:EOLhyphen"/>ſearchable riches of the myſteries of his will, inſtructing them, as a tender father, in the perfect way of life, that un<g ref="char:EOLhyphen"/>to them, who feel his power, an eternal inheritance he may give, and at laſt receive them in the armes of his love, with him to reign in the light of endleſs glory for ever.</p>
+            <p>Wherefore let all tongues be ſilent, and let every evil motion be denied, and the paſſage of every vain thought be ſtopt, and let dread and fear poſſeſs him that hath done evil, and let the inward parts be ſearched with the light of life, which is in the heart of every one of you; and let your minds be wholly turned from all the viſible carnal fading glory to the light of truth in you, which being by you lo<g ref="char:EOLhyphen"/>ved, will lead you into meekneſs, and into true humilitie, which leadeth to, and goeth before eternal honour, and bringeth to be honorable in his power, who ruleth in the hearts of (Emperors and) Kings, who fear before him, and he only who ſearcheth the heart is to be ſought after, above all things, and the operation of his mightie power is to be felt in the inward parts, judging that which hath kept man from the knowledge of his life, and condemning and over<g ref="char:EOLhyphen"/>turning that which hath hindered man from the ſenſe of the feeling thereof in him; the which being turned unto, and loved, followed &amp; obeyed, will bring judgement upon that in you all, which hath long kept you from the domi<g ref="char:EOLhyphen"/>nion
+<pb n="6" facs="tcp:45025:4"/> of pure divine glory and love, in the ſlavery of fleſhly worldly glory, which hath more and more begotten you into that, which luſteth after the beauty which is to periſh with them that die in it.</p>
+            <p>Now therefore awake ye all to righteouſueſſe, ſtand in aw and ſin not, comune with your own hearts, and be ſtill, and in the cool of the day, and quietneſſe of your mindes, liſten ye then to the voice of the Word in your hearts, and prize and tender that which moveth in you, againſt that which is evil, and come to be guided by that in you which is light, which cometh from him who is the God of love, whoſe love is already ſhed abroad in the hearts of many, which conſtraineth them to wait in his light to re<g ref="char:EOLhyphen"/>ceive his power and further diſcoveries of his will, who willeth that all men ſhould be ſaved from eternal death &amp; damnation, and not die under the horrible terrors of his fierce wrath, nor periſh in the darkneſſe of unbelief, and rebellion againſt that power which made man at firſt up<g ref="char:EOLhyphen"/>right, and now from a fatherly pity doth call after all man<g ref="char:EOLhyphen"/>kind, that they may return from evil, and come unto him, and be ſaved from wrath to come, and find plenteous re<g ref="char:EOLhyphen"/>demption in the life of his power, and be gathered into the comlineſſe of his love, and tranſlated into the kingdom of his Immortality, and reign with him who ſitteth upon the Throne of unſpeakable glory, ruling in and over all the kingdoms of men.</p>
+            <p>For behold the day-ſtar of the morning is riſen, and his glitterings is enlightning the dark parts of the World, and unto all Nations is it ariſing, to declare in the hearts of ma<g ref="char:EOLhyphen"/>ny, the ſpringing forth of the day of judgement upon the vail and night of darkneſſe, which hath long covered that from man, by which all man-kinde might come to ſee the fountain of endleſſe love, which now through judgement, by the brightneſs of the light is brought near unto all peo<g ref="char:EOLhyphen"/>ple whoſe hearts are open to receive it, and the light of the morning ſtar (which ariſeth in the hearts of the beloved choſen ſeed) is bringing to judgement the hidden things of diſhoneſty, and in ſecret reproving the double-minded<g ref="char:EOLhyphen"/>neſſe of man, that deceit, defraud &amp; hypocriſie out of him
+<pb n="7" facs="tcp:45025:4"/> may be cleanſed, and the ground of all vanity, tyranny and luſt diſcovered and removed, that death upon death, with judgement through the light may come, that by the light, life &amp; Immortality may come forth &amp; ariſe in the ſtrength of immortal power, breaking through that which ſeparated man from unity, peace and truth, that unto it all nations may become ſubject, and by the force of its lowlineſſe be drawn together to the Hill of holineſſe, and reſt together in the heavenly felicity upon the mount of refuge for ever.</p>
+            <p>For the Son of Righteouſneſs is riſen with healings in his wings, and an overſhadowing power is with him, &amp; they that come to the fruit of his love, are filled with peace to their ſouls, and ſo comes to that which may be received in the heart, and which is given to heal all nations, and ſpring up in the midſt of them as a tree of life, whoſe fruit ſhall never fail, whoſe years ſhall never have an end.</p>
+            <p>And this glorious light of life &amp; power of love is ſpring<g ref="char:EOLhyphen"/>ing forth of darkneſſe in the hearts of thouſands in the Northern parts of the World, and is ſhining forth in the brightneſſe of righteouſneſſe, towards the utmoſt parts of the South, and unto all kinreds upon the face of the earth, reaching from the Eaſt to the Weſt, to declare and give the knowledge of immortal power, which in the hearts of the humble, harmleſſe and ſingle-minded may be felt and re<g ref="char:EOLhyphen"/>ceived if they rebel not againſt the light in the conſcience, nor remain in the ſtrength of their own carnal knowledge, but be willing to come out of all that which they muſt die unto, or periſh with, and leave all that which never brought them to the enjoyment of everlaſting reſt to their ſouls.</p>
+            <p>Now therefore all ye tall Cedars of the earth, whoſe heads are lifted up on high over others, and whoſe mindes are exalted above the principle of meekneſſe in your ſelves, this are you all to know, even that power of eternal life, which is to rule in &amp; over you, &amp; ſee that by the greatneſs of your honour &amp; glory in this preſent World, your hearts be not thereby lifted up, in pride, ambition and wrath, ſo as thereby to keep your ſelves from the attaining unto a pearl of far more &amp; greater price, &amp; of a more durable ſubſtance, for great is the riches, honor &amp; dignity that is coming near
+<pb n="8" facs="tcp:45025:5"/> unto you, if you let not your hearts be hardened againſt it, in the ſtrength and perverſneſſe of your own wils, deſpiſing the day of your viſitation of love, and rejecting the meſſage of life to your ſouls, and contemning that, by which you might come to live for ever, and have dominion over death and hell, &amp; eſcape the torment which all them fall into in the day of their death, who die out of the Covenant of life and peace, the which Covenant, that you may attain unto, and come to live in for ever, let love and mercie be recei<g ref="char:EOLhyphen"/>ved in you, and then brought forth by you, and let humili<g ref="char:EOLhyphen"/>tie and fear be placed in your hearts with it, in tenderneſs to rule over others, and let the light in you (which lets you ſee the thing that is evil) lead and guide you, to ſpeak and do the thing that is good, right and juſt; and let your words be few, ſound, ſober, and meek, &amp; hate not them, who from good will to your ſouls brings the reproof of life unto you, or publiſh the word of repentance among you, or proclaim this meſſage of love and peace within your borders, let not ſuch be harmed, for a day and time of viſitation is coming neer upon you all, and happy may you be, if you receive inſtruction and love the light.</p>
+            <p>
+               <hi>And this is ſomething of that voyce and language which the power of life filled my heart with, in love towards all people, and might have been in words more at large declared among ſome of them, had I not been hindered by hard-hearted men in this preſent unjuſt impriſonment, after I had given up my body and life for that end, and therein to obey that power, by which I and all men living were made, unto the which power, moſt men being dead, knoweth not the life I now live, and therefore by them am I impriſoned, reviled, reproached, and perſecuted, with the reſt of them who are in ſcorn called</hi> Quakers.</p>
+            <closer>
+               <signed>H. S.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:45025:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
